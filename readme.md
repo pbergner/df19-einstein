@@ -12,7 +12,7 @@
 		<li><a href="https://github.com/pbergner/df19-einstein/blob/master/einstein%20command%20cheatsheet.docx">Einstein command cheatsheet</a></li>
 		<li><a href="https://github.com/pbergner/df19-einstein/blob/master/EinsteinVision-DF19.pptx">My presentation slidedeck</a></li>
 		<li><a href="https://trailhead.salesforce.com/en/projects/predictive_vision_apex">Einstein Image Classification Trailhead</a></li>
-		<li><a href="https://github.com/muenzpraeger/salesforce-einstein-platform-apex">A more comprehensive solution to handling Einstein callouts from Apex</a></li>
+		<li><a href="https://appexchange.salesforce.com/listingDetail?listingId=a0N3A00000Ed1V8UAJ">A more comprehensive solution to handling Einstein callouts from Apex</a></li>
 		<li><a href="https://api.einstein.ai/signup">Einstein Signup</a></li>
 		<li><a href="https://api.einstein.ai/token">Generate an Einstein Token</a></li>
 		<li><a href="https://metamind.readme.io/">Einstein API Documentation</a></li>
